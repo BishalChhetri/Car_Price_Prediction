@@ -29,3 +29,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishalChhetri&layout=compact&hide=html&langs_count=10" alt="Bishal-Chhetri" /></p>
+
+![Bishal's github stats](https://github-readme-stats.vercel.app/api?username=BishalChhetri&show_icons=true)
