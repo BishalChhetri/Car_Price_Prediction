@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="25px" height="25px">, I'm Bishal Chhetri.</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">A Full Stack Software Developer</h3>
 
 ​
 |                                            **Top Languages**                                                                       |                                               **Github Stats**                                    |
